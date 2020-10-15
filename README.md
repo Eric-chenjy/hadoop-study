@@ -1,5 +1,5 @@
 # hadoop-study
-##第一次上传时遇到的问题及解决办法
+##第一次上传时遇到的问题及解决办法  
 F:\git_code\hadoop-study>git status
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
